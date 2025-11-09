@@ -1,5 +1,5 @@
 {
-  "name": "Node.js",
+  "name": "Tanstack Start Test",
   "image": "mcr.microsoft.com/devcontainers/javascript-node:24",
   "customizations": {
     "vscode": {
